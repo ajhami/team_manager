@@ -59,14 +59,9 @@ async function init() {
         addEmployee = askTo.addEmployee;
         }
         
-        console.log("Success!\nemployees:");
-        console.log(employeesList);
-
         const htmlRendered = await render(employeesList);
-        console.log(htmlRendered);
-
         fs.writeFileSync(outputPath, htmlRendered);
-
+        console.log("Success!\nemployees:");
     }
     
 

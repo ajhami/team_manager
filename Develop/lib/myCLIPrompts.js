@@ -69,7 +69,7 @@ module.exports = {
             {
                 type: "input",
                 name: "name",
-                message: "Engineer's name:"
+                message: "Intern's name:"
             },
             {
                 type: "input",
