@@ -8,6 +8,8 @@ This project utilizes JavaScript class structures and node functions such as inq
 
 An example of the generated output can be viewed [at this link.](https://ajhami.github.io/team_manager/Develop/output/team.html)
 
+![application screenshot](https://github.com/ajhami/team_manager/blob/master/Assets/project_screenshot.PNG)
+
 ## Table of Contents
 - Installation
 - Usage
