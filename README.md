@@ -20,7 +20,7 @@ An example of the generated output can be viewed [at this link.](https://ajhami.
 npm install
 ```
 ### Usage
-run 'npm start' to run the program. The console will ask a series of questions, which information will be generated into the html template.
+run 'npm start' to run the program. The console will ask a series of questions, which information will be generated into the html template. IN ORDER TO USE THIS APPLCATION, YOU WILL NEED TO ENTER A SPECIFIC PASSWORD WHEN PROMPTED! The password is 'UCBC2020'.
 
 
 ### Testing (git)
