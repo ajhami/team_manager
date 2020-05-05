@@ -1,0 +1,78 @@
+body {
+    background-color: #00c1f13d;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header_section {
+    background-color: #003c96;
+    margin-bottom: 2.0rem;
+}
+
+.header_text {
+    text-align: center;
+    color: #d038ffe0;
+    font-family: 'Arial';
+    font-style: oblique;
+    font-size: 10.0rem;
+}
+
+.employee_header {
+    color: #ffffff;
+    border-top-left-radius: 1.0rem;
+    border-top-right-radius: 1.0rem;
+    padding: 0.2rem;
+    border: #003c96 solid 0.5px;
+    text-align: center;
+}
+
+.manager_header {
+    background-color: #d61515b7;
+}
+
+.employee_name {
+    font-size: 3.5rem;
+}
+
+.employee_title {
+    font-size: 3.0rem;
+}
+
+.fas, .far {
+    color: #ffffff;
+}
+
+.employee_info_box {
+    background-color: #ffffff;
+    color: #003c96;
+    border-bottom-left-radius: 1.0rem;
+    border-bottom-right-radius: 1.0rem;
+    border: #003c96 solid 0.5px;
+    border-top: #000000 solid 1.5px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-left: 0.5rem;
+}
+
+.engineer_header {
+    background-color: #1cd615b7;
+}
+
+.intern_header {
+    background-color: #5915d6b7;
+}
+
+.employee_display {
+    /* float: left; */
+    /* height: 30rem; */
+    margin-bottom: 3.0rem;
+}
+
+.center_all {
+    display: flex;
+    justify-content: center;
+}
